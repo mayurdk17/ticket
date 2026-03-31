@@ -5,7 +5,7 @@ from playwright.async_api import async_playwright
 
 # 🔐 ENV VARIABLES (from Render)
 TELEGRAM_TOKEN = os.getenv("8376263102:AAGrJBhDW3mPjb0b2_tekQ1grG3huI24EXc")
-CHAT_ID = os.getenv("5526791148)
+CHAT_ID = os.getenv("5526791148")
 
 URL = "https://shop.royalchallengers.com/ticket"
 
